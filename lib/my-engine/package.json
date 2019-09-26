@@ -6,6 +6,7 @@
   ],
   "dependencies": {
     "ember-cli-htmlbars": "*",
+    "ember-responsive": "*",
     "ember-cli-babel": "*"
   }
 }
